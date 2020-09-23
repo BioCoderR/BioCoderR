@@ -1,6 +1,6 @@
 ### Hi I'm Pranav Swaroop 👋
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on Bioinformatics
 - 🌱 I’m currently learning NGS technologies and Business Analysis
