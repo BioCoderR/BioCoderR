@@ -14,7 +14,7 @@
 - ⚡ Fun fact: I love to play violin 🎻
 
 ### Spotify Playing 🎧
-[<img src="https://now-playing-Pranav.vercel.app/api/spotify-playing" alt="BioCodR Spotify Playing" width="350" />](https://open.spotify.com/playlist/2DjIfVDXGYDgRxw7IJTKVb)
+[![Spotify](https://novatorem-pranavswaroopgundla.vercel.app/api/spotify)]
 
 ### Connect with me:
 
