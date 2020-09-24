@@ -12,7 +12,6 @@
 - 🤔 I’m looking for help with Data Science
 - 💬 Ask me about anything
 - 📫 How to reach me: pranav5goud@gmail.com 
-- 😄 Pronouns: He/His
 - ⚡ Fun fact: I love to play violin 🎻 and listen to music for hours.
 <br/>
 
