@@ -1,4 +1,4 @@
-### Hi I'm Pranav Swaroop - aka [BioCodR]👋
+### Hi I'm Pranav Swaroop - aka [BioCodeR]👋
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/im_pranavgundla?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fim_pranavgundla&screen_name=im_pranavgundla)
 
@@ -14,15 +14,12 @@
 - ⚡ Fun fact: I love to play violin 🎻
 
 ### Spotify Playing 🎧
-[![Spotify](https://novatorem-pranavswaroopgundla.vercel.app/api/spotify)]
-
+ [![Spotify](https://novatorem-pranavswaroopgundla.vercel.app/api/spotify)](https://open.spotify.com/user/888xmfxe2mklp49c7x4ivl8vz?si=ZppXkcxUT72FvSzp87UTvw)
+ 
 ### Connect with me:
-
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="BioCodeR | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/im_pranavgundla)
+[<img align="left" alt="BioCodeR | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/pranav-swaroop-gundla-531bb2179/)
+[<img align="left" alt="BioCodeR | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/pranav_swaroop_g/)
 
 <br />
 ### Languages and Tools:
