@@ -16,7 +16,7 @@
 <br/>
 
 ### Spotify Playing 🎧
- [![Spotify](https://novatorem-pranavswaroopgundla.vercel.app/api/spotify)](https://open.spotify.com/user/888xmfxe2mklp49c7x4ivl8vz?si=ZppXkcxUT72FvSzp87UTvw)
+ [![Spotify](https://novatorem.pranavswaroopgundla.vercel.app/api/spotify)](https://open.spotify.com/user/888xmfxe2mklp49c7x4ivl8vz?si=ZppXkcxUT72FvSzp87UTvw)
  <br/>
  
 ### Connect with me:
@@ -75,6 +75,7 @@
 ---
 <details>
   <summary>:zap: Github Stats</summary>
+
 
   <img align="left" alt="pranavswaroopgundla's Github Stats" src="https://github-readme-stats.pranavswaroopgundla.vercel.app/api?username=pranavswaroopgundla&show_icons=true&hide_border=true" />
 <img align="left" alt="pranavswaroopgundla's Github Stats" src="https://github-readme-stats.pranavswaroopgundla.vercel.app/api/top-langs/?username=pranavswaroopgundla&hide=css,java&theme=tokyonight" />
