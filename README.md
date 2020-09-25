@@ -78,7 +78,7 @@
   <summary>:zap: Github Stats</summary>
 
 
-  <img align="left" alt="pranavswaroopgundla's Github Stats" src="https://github-readme-stats-pranavnew.vercel.app/api?username=pranavswaroopgundla&hide=stars,commits,prs,issues,contribs&show_icons=true&hide_border=true" />
-<img align="left" alt="pranavswaroopgundla's Github Stats" src="https://github-readme-stats-pranavnew.vercel.app/api/top-langs/?username=pranavswaroopgundla&hide=css,java&theme=tokyonight" />
+  <img align="left" alt="pranavswaroopgundla's Github Stats" src="https://github-readme-stats-pranavnew.vercel.app/api?username=BioCoderR&hide=stars,commits,prs,issues,contribs&show_icons=true&hide_border=true" />
+<img align="left" alt="pranavswaroopgundla's Github Stats" src="https://github-readme-stats-pranavnew.vercel.app/api/top-langs/?username=BioCoderR&hide=css,java&theme=tokyonight" />
 </details>
 
