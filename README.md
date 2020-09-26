@@ -25,9 +25,8 @@
 [<img align="left" alt="BioCodeR | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/pranav-swaroop-gundla-531bb2179/)
 [<img align="left" alt="BioCodeR | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/pranav_swaroop_g/)
 [<img align="left" alt="BioCodeR | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://www.facebook.com/pranav.goud.526/)
-<br />
 [<img align="left" alt="BioCodeR | Skype" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/skype.svg" />](https://join.skype.com/invite/UJ4tDtkVKWk1)
-
+<br />
 ### Languages:
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />
