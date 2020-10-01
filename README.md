@@ -72,9 +72,11 @@
 <img align="left" alt="Macos" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/macos/macos.png" />
 <br/>
 <br/>
+
 ### Digital Badges:
 
 <img align="left" alt="Python for Data Science and AI" src="https://github.com/BioCoderR/BioCoderR/blob/master/python-for-data-science-and-ai.png"/>
+<br/>
 <br/>
 <br/>
 
