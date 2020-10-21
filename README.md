@@ -4,7 +4,7 @@
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/pranav-swaroop-gundla-531bb2179/)
 <br/>
 
-## I'm a Graduate, Bioinformatician, Researcher, Analyst, and Developer!
+## I'm a Software Engineer, Bioinformatician, Researcher, Analyst, and Developer!
 
 - 🔭 I’m currently working on AWS - Frontend-Development
 - 🌱 I’m currently learning NGS technologies and Business Analysis
