@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on Google Cloud Platform
 - 🌱 I’m currently learning NGS technologies
 - 👯 I’m looking to collaborate on Bioinformatic Projects
-- 🤔 I’m looking for help in Networkk Embeddings and CNN mostly
+- 🤔 I’m looking for help in Network Embeddings and CNN mostly
 - 💬 Find my sourcerer at: [Sourcerer](https://sourcerer.io/pranavswaroopgundla)✨
 - :man_technologist: Check my [Portfolio](https://biocoderr.github.io/)✨
 - 📫 How to reach me: pranav5goud@gmail.com 
