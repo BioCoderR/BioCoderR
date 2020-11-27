@@ -6,10 +6,10 @@
 
 ## I'm a Software Engineer, Bioinformatician, Researcher, Analyst, and Developer!
 
-- 🔭 I’m currently working on AWS - Frontend-Development
-- 🌱 I’m currently learning NGS technologies and Business Analysis
-- 👯 I’m looking to collaborate on Front-End Development
-- 🤔 I’m looking for help with Data Science
+- 🔭 I’m currently working on Google Cloud Platform
+- 🌱 I’m currently learning NGS technologies
+- 👯 I’m looking to collaborate on Bioinformatic Projects
+- 🤔 I’m looking for help in Networkk Embeddings and CNN mostly
 - 💬 Find my sourcerer at: [Sourcerer](https://sourcerer.io/pranavswaroopgundla)✨
 - :man_technologist: Check my [Portfolio](https://biocoderr.github.io/)✨
 - 📫 How to reach me: pranav5goud@gmail.com 
