@@ -16,10 +16,6 @@
 - ⚡ Fun fact: I love to play violin 🎻 and listen to music for hours.
 <br/>
 
-### Spotify Playing 🎧
- [![Spotify](https://novatorem.pranavswaroopgundla.vercel.app/api/spotify)](https://open.spotify.com/user/888xmfxe2mklp49c7x4ivl8vz?si=ZppXkcxUT72FvSzp87UTvw)
- <br/>
- 
 ### Connect with me:
 [<img align="left" alt="BioCodeR | Twitter" width="22px" src="https://github.com/BioCoderR/BioCoderR.github.io/blob/master/assets/icons/twitter.svg" />](https://twitter.com/im_pranavgundla)
 [<img align="left" alt="BioCodeR | LinkedIn" width="22px" src="https://github.com/BioCoderR/BioCoderR.github.io/blob/master/assets/icons/linkedin.svg" />](https://www.linkedin.com/in/pranav-swaroop-gundla-531bb2179/)
