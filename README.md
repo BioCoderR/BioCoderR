@@ -4,7 +4,7 @@
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/pranav-swaroop-gundla-531bb2179/)
 <br/>
 
-## I'm a Software Engineer, Bioinformatician, Research Analyst, and Developer!
+## I'm a Bioinformatician, Research Analyst, and Developer!
 
 - 🔭 I’m currently working on Google Cloud Platform, Docker
 - 🌱 I’m currently learning NGS technologies
