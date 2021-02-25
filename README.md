@@ -6,7 +6,7 @@
 
 ## I'm a Software Engineer, Bioinformatician, Research Analyst, and Developer!
 
-- 🔭 I’m currently working on Google Cloud Platform
+- 🔭 I’m currently working on Google Cloud Platform, Docker
 - 🌱 I’m currently learning NGS technologies
 - 👯 I’m looking to collaborate on Bioinformatic Projects
 - 🤔 I’m looking for help in Network Embeddings and CNN mostly
