@@ -18,7 +18,7 @@
 
 ### Connect with me:
 [<img align="left" alt="BioCodeR | Twitter" width="22px" src="https://github.com/BioCoderR/BioCoderR.github.io/blob/master/assets/icons/twitter.svg" />](https://twitter.com/im_pranavgundla)
-[<img align="left" alt="BioCodeR | LinkedIn" width="22px" src="https://github.com/BioCoderR/BioCoderR.github.io/blob/master/assets/icons/linkedin.svg" />](https://www.linkedin.com/in/pranav-swaroop-gundla-531bb2179/)
+[<img align="left" alt="BioCodeR | LinkedIn" width="22px" src="https://github.com/BioCoderR/BioCoderR.github.io/blob/master/assets/icons/linkedin.svg" />](https://www.linkedin.com/in/pranavswaroopgundla/)
 [<img align="left" alt="BioCodeR | Instagram" width="22px" src="https://github.com/BioCoderR/BioCoderR.github.io/blob/master/assets/icons/instagram.svg" />](https://www.instagram.com/pranav_swaroop_g/)
 [<img align="left" alt="BioCodeR | Facebook" width="22px" src="https://github.com/BioCoderR/BioCoderR.github.io/blob/master/assets/icons/facebook.svg" />](https://www.facebook.com/pranav.goud.526/)
 [<img align="left" alt="BioCodeR | Skype" width="22px" src="https://github.com/BioCoderR/BioCoderR.github.io/blob/master/assets/icons/skype.svg" />](https://join.skype.com/invite/UJ4tDtkVKWk1)
