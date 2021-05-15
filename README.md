@@ -10,23 +10,14 @@
 - :man_technologist: Check my [Portfolio](https://biocoderr.github.io/)✨
 - 📫 How to reach me: pranav5goud@gmail.com 
 - ⚡ Fun fact: I love to play violin 🎻 and listen to music for hours.
-<br/>
+
 
 ### :raising_hand_man: Connect with me:
 <p align="left">
  <a href="https://twitter.com/im_pranavgundla"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
  <a href="https://linkedin.com/in/pranavswaroopgundla/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://www.instagram.com/pranav_swaroop_g/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&amp;style=for-the-badge&amp;logo=instagram&amp;logoColor=white"></a>
-  
- </p> 
-<!--
-[<img align="left" alt="BioCodeR | Twitter" width="22px" src="https://github.com/BioCoderR/BioCoderR.github.io/blob/master/assets/icons/twitter.svg" />](https://twitter.com/im_pranavgundla)
-[<img align="left" alt="BioCodeR | LinkedIn" width="22px" src="https://github.com/BioCoderR/BioCoderR.github.io/blob/master/assets/icons/linkedin.svg" />](https://www.linkedin.com/in/pranavswaroopgundla/)
-[<img align="left" alt="BioCodeR | Instagram" width="22px" src="https://github.com/BioCoderR/BioCoderR.github.io/blob/master/assets/icons/instagram.svg" />](https://www.instagram.com/pranav_swaroop_g/)
-[<img align="left" alt="BioCodeR | Facebook" width="22px" src="https://github.com/BioCoderR/BioCoderR.github.io/blob/master/assets/icons/facebook.svg" />](https://www.facebook.com/pranav.goud.526/)
-[<img align="left" alt="BioCodeR | Skype" width="22px" src="https://github.com/BioCoderR/BioCoderR.github.io/blob/master/assets/icons/skype.svg" />](https://join.skype.com/invite/UJ4tDtkVKWk1)
--->
-<br />
+   </p> 
 
 ### 👨‍💻 Programming languages
 <p>
@@ -83,7 +74,6 @@
 <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white">
 <img alt="Macos" src="https://img.shields.io/badge/macOS-000000?style=flat&logo=macos&logoColor=white">
 </p>
-<br/>
 
 ### Digital Badges:
 <p>
@@ -96,6 +86,7 @@
 <br/>
 <br/>
 
+<br/>
 <p align="left">
   <a href="https://github.com/BioCoderR?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
   </p>
