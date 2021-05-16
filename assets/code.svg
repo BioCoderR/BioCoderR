@@ -136,19 +136,9 @@
         183.96C650.771 187.48 646.803 189.816 641.491 190.968L658.291 219H647.827ZM621.331 184.632H634.195C638.931 184.632 642.483 183.48 644.851 181.176C647.219 178.808 648.403 175.672 648.403 171.768C648.403 167.8 647.219 164.728 644.851 162.552C642.547
         160.376 638.995 159.288 634.195 159.288H621.331V184.632Z" stroke-width="1" mask="url(#path-1-outside-1)"/>
   </g>
-<!--   <style type="stylesheet">
-  body {
-                    background: #082330;
-                    margin: 0;
-                    font-family: Dancing Script;
-                    height: 100vh;
-                    width: 100vw;
-                    display: flex;
-                    justify-content: center;
-                    align-items: center;
-                }
-                svg{
-                  width:100%;
-                }
-  </style> -->
+  <defs>
+  <style type="style/css">
+  @import url("assets/styel.css");
+  </style>
+    </defs>
 </svg>
