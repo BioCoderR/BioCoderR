@@ -100,3 +100,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=biocoderr&theme=highcontrast" alt="biocoderr" /></p>
 </details>
 
+### Github Activity Stats
+<img alt="BioCoderR's Activity Graph" src="https://shrouded-sea-56947.herokuapp.com/graph?username=BioCoderR&theme=react-dark">
