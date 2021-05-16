@@ -1,7 +1,7 @@
 ### Hi I'm Pranav Swaroop - aka BioCodeR 👋👨‍💻
 
 
-   <img alt="hello biocoderR" src="assets/code.svg"/>
+   <!-- <img alt="hello biocoderR" src="assets/code.svg"/>-->
     
   ## I'm a Bioinformatician, Research Analyst, and Developer!
 
