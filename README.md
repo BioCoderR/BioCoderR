@@ -1,6 +1,9 @@
 ### Hi I'm Pranav Swaroop - aka BioCodeR 👋👨‍💻
-                                        
-   ## I'm a Bioinformatician, Research Analyst, and Developer!
+
+
+   <img alt="hello biocoderR" src="assets/code.svg"/>
+    
+  ## I'm a Bioinformatician, Research Analyst, and Developer!
 
 - 🔭 I’m currently working on Google Cloud Platform, Docker
 - 🌱 I’m currently learning NGS technologies
