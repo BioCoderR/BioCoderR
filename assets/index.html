@@ -3,16 +3,15 @@
 
 <head>
     <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="style.css" />
+    <link rel="stylesheet" href="assets/style.css" />
     <script src=" https://cdnjs.cloudflare.com/ajax/libs/animejs/3.2.1/anime.min.js"></script>
     <title>SVG</title>
 </head>
 
 <body>
     <svg id="code" width=" 664 " height="223 " viewbox="0 0 664 223 " fill="none" xmlns="http://www.w3.org/2000/svg">
-<g class="lines">
+<g id="text">
                   <mask id="path-1-outside-1 " maskunits="userSpaceOnUse " x="0.782623 " y="0.959999" width="663" height="222" fill="black">
                   <rect fill="white" x="0.782623" y="0.959999" width="663" height="222"/>
                   <path d="M257.319 8.088V75H248.583V44.664H214.503V75H205.767V8.088H214.503V37.464H248.583V8.088H257.319Z"/>
@@ -142,7 +141,7 @@
         </svg>
     <script>
         anime({
-            targets: '#code .lines path',
+            targets: '#code #text path',
             stroke: ['#360745', '#d61c59', '#e7d84b', '#efeac5', '#1b8798'],
             strokeDashoffset: [anime.setDashoffset, 0],
             //             stroke - width: 3 px,
