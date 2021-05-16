@@ -1,4 +1,20 @@
+<?xml-stylesheet type="text/css" href="assets/style.css"?>
 <svg id="code" width="664" height="223" viewbox="0 0 664 223" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <script type="text/javascript">
+     <![CDATA[
+  anime({
+            targets: '#code #text path',
+            stroke: ['#360745', '#d61c59', '#e7d84b', '#efeac5', '#1b8798'],
+            strokeDashoffset: [anime.setDashoffset, 0],
+            easing: 'easeInOutQuad',
+            duration: 2000,
+            delay: function(el, i) {
+                return i * 100
+            },
+            direction: 'alternate',
+            loop: true
+        });]]>
+  </script>
 <g id="text">
                   <mask id="path-1-outside-1" maskunits="userSpaceOnUse" x="0.782623" y="0.959999" width="663" height="222" fill="black">
                   <rect fill="white" x="0.782623" y="0.959999" width="663" height="222"/>
@@ -120,4 +136,19 @@
         183.96C650.771 187.48 646.803 189.816 641.491 190.968L658.291 219H647.827ZM621.331 184.632H634.195C638.931 184.632 642.483 183.48 644.851 181.176C647.219 178.808 648.403 175.672 648.403 171.768C648.403 167.8 647.219 164.728 644.851 162.552C642.547
         160.376 638.995 159.288 634.195 159.288H621.331V184.632Z" stroke-width="1" mask="url(#path-1-outside-1)"/>
   </g>
+<!--   <style type="stylesheet">
+  body {
+                    background: #082330;
+                    margin: 0;
+                    font-family: Dancing Script;
+                    height: 100vh;
+                    width: 100vw;
+                    display: flex;
+                    justify-content: center;
+                    align-items: center;
+                }
+                svg{
+                  width:100%;
+                }
+  </style> -->
 </svg>
