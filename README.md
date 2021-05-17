@@ -5,14 +5,14 @@
     
   ## I'm a Bioinformatician, Research Analyst, and Developer!
 
-- 🔭 I’m currently working on Google Cloud Platform, Docker
-- 🌱 I’m currently learning NGS technologies
-- 👯 I’m looking to collaborate on Text-Mining Projects
-- 🤔 I’m looking for help in Network Embeddings and CNN mostly
-- 💬 Find my sourcerer at: [Sourcerer](https://sourcerer.io/pranavswaroopgundla)✨
+- 🔭 I’m currently working on NGS Technologies, Docker
+- 🌱 I’m currently learning SVG animations
+- 👯 I’m looking to collaborate on Portfolio website designing
+- 🤔 I’m looking for help in Javascript, SCSS & Website development
+- 💬 Find my sourcerer at: [Sourcerer](https://sourcerer.io/biocoderr)✨
 - :man_technologist: Check my [Portfolio](https://biocoderr.github.io/)✨
 - 📫 How to reach me: pranav5goud@gmail.com 
-- ⚡ Fun fact: I love to play violin 🎻 and listen to music for hours.
+- ⚡ Fun fact: I listen to music for more than 9 hours a day.
 
 
 ### :raising_hand_man: Connect with me:
