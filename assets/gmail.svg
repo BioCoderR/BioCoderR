@@ -2,7 +2,7 @@
   <title>Gmail icon</title>
   <style>
   path{
-    fill: none;
+    fill: "#7FFFD4";
     stroke: #7FFFD4;
     }
   </style>                                                                                            
