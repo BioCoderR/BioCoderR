@@ -41,23 +41,30 @@ ____
 
 <p>
    <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white">
-   <img alt="Electron" src="https://img.shields.io/badge/Electron%20-%2320232e.svg?logo=electron&logoColor=white">
    <img alt="Keras" src="https://img.shields.io/badge/Keras%20-%23D00000.svg?logo=Keras&logoColor=white">
    <img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white">
    <img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white">
+<!--    <img alt="SciPy" src="https://img.sheilds.io/badge/SciPy%20-%238CAAE6.svg?style=flat&logo=SciPy&logoColor=white"> -->
+<!--    <img alt="PyTorch" src="https://img.shields.io/endpoint?color=%23EE4C2C&label=PyTorch&logo=PyTorch&logoColor=white&url=https%3A%2F%2Fsimpleicons.org%2Ficons%2Fpytorch.svg"> -->
+   <img alt="Plotly" src="https://img.sheilds.io/badge/Plotly-%233F4F75.svg?logo=plotly&logoColor=white">
    <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?logo=TensorFlow&logoColor=white">
 </p>
 
 ### 🗄️ Databases and cloud hosting
 <p>
-   <img alt="GCP" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat&amp;logo=google-cloud&amp;logoColor=white">
-   <img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white">
+   
    <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat&amp;logo=docker&amp;logoColor=white">
    <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white">
    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&logoColor=white">
    <img alt="SQLite" src ="https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white">
    <img alt="Vercel" src="https://img.shields.io/badge/Vercel%20-%23000000.svg?logo=vercel&logoColor=white">
    <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat&amp;logo=heroku&amp;logoColor=white">
+</p>
+
+### :cloud: Cloud Comouting
+<p>
+   <img alt="GCP" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat&amp;logo=google-cloud&amp;logoColor=white">
+   <img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white">
 </p>
 
 ### 💻 Software and tools
@@ -83,7 +90,7 @@ ____
 
 ### Digital Badges:
 <p>
-<img align="left" alt="Python for Data Science and AI" src="https://github.com/BioCoderR/BioCoderR/blob/master/python-for-data-science-and-ai.png"/></p>
+<img align="left" alt="Python for Data Science and AI" src="https://github.com/BioCoderR/BioCoderR/blob/master/python-for-data-science-and-ai.png" /></p>
 <br/>
 <br/>
 <br/>
@@ -94,7 +101,7 @@ ____
 
 <br/>
 <p align="left">
-  <a href="https://github.com/BioCoderR?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+  <a href="https://github.com/BioCoderR?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white" /></a>
   </p>
   <br/>
 <details>
@@ -107,4 +114,4 @@ ____
 </details>
 
 ### Github Activity Stats
-<img alt="BioCoderR's Activity Graph" src="https://shrouded-sea-56947.herokuapp.com/graph?username=BioCoderR&theme=react-dark">
+<img alt="BioCoderR's Activity Graph" src="https://safe-plateau-55407.herokuapp.com/graph?username=BioCoderR&theme=react-dark">
