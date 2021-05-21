@@ -44,16 +44,19 @@ ____
    <img alt="Keras" src="https://img.shields.io/badge/Keras%20-%23D00000.svg?logo=Keras&logoColor=white">
    <img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white">
    <img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white">
-<!--    <img alt="SciPy" src="https://img.sheilds.io/badge/SciPy%20-%238CAAE6.svg?style=flat&logo=SciPy&logoColor=white"> -->
-<!--    <img alt="PyTorch" src="https://img.shields.io/endpoint?color=%23EE4C2C&label=PyTorch&logo=PyTorch&logoColor=white&url=https%3A%2F%2Fsimpleicons.org%2Ficons%2Fpytorch.svg"> -->
-   <img alt="Plotly" src="https://img.sheilds.io/badge/Plotly-%233F4F75.svg?logo=plotly&logoColor=white">
+   <img alt="Conda" src="https://img.shields.io/badge/Conda-342B029.svg?&style=flat&logo=anaconda&logoColor=white">
+   <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-27338e?style=flat&logo=OpenCV&logoColor=white">
+  <img alt="SciPy" src="https://img.shields.io/badge/Scipy-8CAAE6?style=flat&logo=SciPy&logoColor=white">
    <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?logo=TensorFlow&logoColor=white">
 </p>
 
-### 🗄️ Databases and cloud hosting
+### :bar_chart: Analytics
 <p>
-   
-   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat&amp;logo=docker&amp;logoColor=white">
+   <img alt="Plotly" src="https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white">
+</p>
+
+### 🗄️ Databases and cloud hosting
+<p>  
    <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white">
    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&logoColor=white">
    <img alt="SQLite" src ="https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white">
@@ -61,7 +64,7 @@ ____
    <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat&amp;logo=heroku&amp;logoColor=white">
 </p>
 
-### :cloud: Cloud Comouting
+### :cloud: Cloud Computing
 <p>
    <img alt="GCP" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat&amp;logo=google-cloud&amp;logoColor=white">
    <img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white">
@@ -69,15 +72,26 @@ ____
 
 ### 💻 Software and tools
 <p>
+   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat&amp;logo=docker&amp;logoColor=white">
    <img alt="RStudio" src="https://img.shields.io/badge/RStudio-75AADB?style=flat&logo=RStudio&logoColor=white&logoWidth=20">
    <img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white">
    <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat&amp;logo=prettier&amp;logoColor=white"> 
+   <img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=white">
    <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?logo=Jupyter&logoColor=white">
    <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white">
-   <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
-   <img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&amp;logoColor=white">
    <img alt="MATLAB" src="https://img.shields.io/badge/Mathworks-0076A8?style=flat&logo=mathworks&logoColor=white">
-   <img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=white">
+   
+</p>
+
+### IDE
+<p>
+   <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
+   <img alt="Atom" src="https://img.shields.io/badge/Atom-66595C?style=flat&logo=Atom&logoColor=white">
+   <img alt="Arduino IDE" src="https://img.shields.io/badge/Arduino_IDE-00979D?style=flat&logo=arduino&logoColor=white">
+   <img alt="Sublime text" src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=flat&logo=sublime-text&logoColor=important">
+   <img alt="Vim" src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=flat&logo=vim&logoColor=white">
+   <img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&amp;logoColor=white">
+   
 </p>
 
 ### :desktop_computer:	Operating Systems
