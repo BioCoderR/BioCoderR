@@ -6,7 +6,7 @@ ____
 - 🌱 I’m currently learning SVG animations
 - 👯 I’m looking to collaborate on Portfolio website designing
 - 🤔 I’m looking for help in Javascript, SCSS & Website development
-- 💬 Find my sourcerer at: [Sourcerer](https://sourcerer.io/biocoderr)✨
+- 💬 Find my sourcerer at: [Sourcerer](https://sourcerer.io/biocoderr):mage:
 - :man_technologist: Check my [Portfolio](https://biocoderr.github.io/)✨
 - 📫 How to reach me: <a href="mailto:pranav5goud@gmail.com"><img alt="GMail" align="center" width="20" height="18" src="assets/gmail.svg"/></a>
 - ⚡ Fun fact: I listen to music for more than 9 hours a day.
