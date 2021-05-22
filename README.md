@@ -122,8 +122,8 @@ ____
   <summary>:zap: Github Stats</summary><br>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=biocoderr" alt="biocoderr" /></a> </p>
-  <img align="left" alt="pranavswaroopgundla's Github Stats" src="https://github-readme-stats-pranavnew.vercel.app/api?username=BioCoderR&count_private=true&show_icons=true&hide_border=true&theme=vue" />
-<img align="left" alt="pranavswaroopgundla's Github Stats" src="https://github-readme-stats-pranavnew.vercel.app/api/top-langs/?username=BioCoderR&hide=typescript&theme=react" />
+  <img align="left" alt="pranavswaroopgundla's Github Stats" src="https://raw.githubusercontent.com/BioCoderR/github-stats-transparent/output/generated/overview.svg" />
+<img align="left" alt="pranavswaroopgundla's Github Stats" src="https://raw.githubusercontent.com/BioCoderR/github-stats-transparent/output/generated/languages.svg" />
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=biocoderr&theme=highcontrast" alt="biocoderr" /></p>
 </details>
 
