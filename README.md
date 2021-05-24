@@ -134,4 +134,5 @@ ____
 </details>
 
 ### Github Activity Stats
+
 <img alt="BioCoderR's Activity Graph" src="https://safe-plateau-55407.herokuapp.com/graph?username=BioCoderR&theme=react-dark" />
