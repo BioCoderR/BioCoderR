@@ -1,4 +1,6 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=KoHo&color=149DDD&size=28&vCenter=true&width=570&height=80&style=max-width:100%;&lines=I'm+Pranav+Swaroop+Gundla+aka+BioCoderR+%F0%9F%91%8B;Bioinformatician;+Reseach+Analyst;Freelancer+;Web+Developer" />       
+<p align="left">
+ <img src="https://readme-typing-svg.herokuapp.com?font=KoHo&color=149DDD&size=28&Center=true&vCenter=true&width=570&height=80&lines=I'm+Pranav+Swaroop+Gundla+aka+BioCoderR+%F0%9F%91%8B;Bioinformatician;+Reseach+Analyst;Freelancer+;Web+Developer" />     
+  </p>
                    
 - 🔭 I’m currently working on NGS Technologies, Docker
 - 🌱 I’m currently learning SVG animations
