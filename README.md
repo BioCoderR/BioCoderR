@@ -1,7 +1,5 @@
-### Hi I'm Pranav Swaroop - aka BioCodeR 👋👨‍💻
-____
-## I'm a Bioinformatician, Research Analyst, and Developer!
-
+<img src="https://readme-typing-svg.herokuapp.com?font=KoHo&color=149DDD&size=28&vCenter=true&width=570&height=80&style=max-width:100%;&lines=I'm+Pranav+Swaroop+Gundla+aka+BioCoderR+%F0%9F%91%8B;Bioinformatician;+Reseach+Analyst;Freelancer+;Web+Developer" />       
+                   
 - 🔭 I’m currently working on NGS Technologies, Docker
 - 🌱 I’m currently learning SVG animations
 - 👯 I’m looking to collaborate on Portfolio website designing
@@ -12,9 +10,9 @@ ____
 - ⚡ Fun fact: I listen to music for more than 9 hours a day.
 
 
-### :raising_hand_man: Connect with me:
+# :raising_hand_man: Connect with me:
 
-<p align="left">
+<p align="center">
    <a href="https://www.instagram.com/pranav_swaroop_g/">
       <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&amp;style=for-the-badge&amp;logo=instagram&amp;logoColor=white" />
    </a>
@@ -25,6 +23,8 @@ ____
       <img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
    </a>
 </p> 
+
+# :milky_way: My Space
 
 ### 👨‍💻 Programming languages
 
@@ -90,7 +90,7 @@ ____
    <img alt="Stack Overflow" src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white" />
 </p>
 
-### IDE
+### :gear: :page_facing_up: IDE
 <p>
    <img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&amp;logoColor=white" />
    <img alt="Arduino IDE" src="https://img.shields.io/badge/Arduino_IDE-00979D?style=flat&logo=arduino&logoColor=white" />
