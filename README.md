@@ -1,6 +1,6 @@
 
 <p align="left">
- <img src="https://readme-typing-svg.herokuapp.com?font=KoHo&color=149DDD&size=28&Center=true&vCenter=true&width=570&height=80&lines=I'm+Pranav+Swaroop+Gundla+aka+BioCoderR+%F0%9F%91%8B;Bioinformatician;+Reseach+Analyst;Freelancer+;Web+Developer" />     
+ <img src="https://readme-typing-svg.herokuapp.com?font=KoHo&color=149DDD&size=28&Center=true&vCenter=true&width=570&height=80&lines=I'm+Pranav+Swaroop+Gundla+aka+BioCoderR+%F0%9F%91%8B;Bioinformatician;+Data+Scientist;Freelancer+;Web+Developer" />     
   </p>
       
 
