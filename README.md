@@ -5,9 +5,9 @@
       
 
 - 🔭 I’m currently working on NGS Technologies, Docker
-- 🌱 I’m currently learning SVG animations
-- 👯 I’m looking to collaborate on Portfolio website designing
-- 🤔 I’m looking for help in Javascript, SCSS & Website development
+- 🌱 I’m currently learning React, Vue.js, & NEXT.js
+- 👯 I’m looking to collaborate on Website designing
+- 🤔 I’m looking for help in Javascript
 - 💬 Find my sourcerer at: [Sourcerer](https://sourcerer.io/biocoderr):mage:
 - :man_technologist: Check my [Portfolio](https://biocoderr.github.io/)✨
 - 📫 How to reach me: <a href="mailto:pranav5goud@gmail.com"><img alt="GMail" align="center" width="20" height="18" src="assets/gmail.svg" /></a>
