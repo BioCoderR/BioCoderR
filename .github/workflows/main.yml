@@ -15,7 +15,5 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          REPOSITORY: BioCoderR/BioCoder.github.io
-          GH_DOCS_TOKEN: ${{ secrets.GH_DOCS_TOKEN }}
-          REPOSITORY: BioCoderR/docs.github.io
+          REPOSITORY: BioCoderR/BioCoder
           
