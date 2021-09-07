@@ -144,6 +144,8 @@
 
 <!--START_SECTION:waka-->
 ```text
-Other   54 hrs 14 mins  █████████████████████████   100.00 % 
+Other      45 hrs 6 mins   ████████████████████████▒   96.67 % 
+Markdown   1 hr 29 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
+Bash       3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 ```
 <!--END_SECTION:waka-->
