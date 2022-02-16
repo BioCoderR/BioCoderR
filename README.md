@@ -144,6 +144,8 @@
 
 <!--START_SECTION:waka-->
 ```text
+Total: 9 hrs 1 min
+
 Python   8 hrs 24 mins   ███████████████████████░░   91.96 % 
 Java     18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
 XML      17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
