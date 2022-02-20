@@ -144,8 +144,6 @@
 
 <!--START_SECTION:waka-->
 ```text
-Total: 5 hrs 58 mins
-
 Python   5 hrs 41 mins   ███████████████████████▒░   93.50 % 
 Text     10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
 Other    7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
