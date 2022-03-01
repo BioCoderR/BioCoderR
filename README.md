@@ -143,9 +143,14 @@
 <!-- [BioCoderR's Activity Graph](https://activity-graph.herokuapp.com/graph?username=biocoderr&bg_color=0b0a0a&color=1dc6c9&line=1fd1b3&point=ededed&area=true&hide_border=true)(https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
 <!--START_SECTION:waka-->
+
 ```text
-Python   4 hrs 39 mins   ██████████████████████▓░░   90.08 % 
-Text     22 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.28 % 
-XML      8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
+Python   7 hrs 24 mins   ██████████████████████▓░░   91.28 %
+XML      18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 %
+Text     12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.47 %
+R        11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.29 %
+TOML     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+CSV      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
+
 <!--END_SECTION:waka-->
