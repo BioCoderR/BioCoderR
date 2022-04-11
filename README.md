@@ -6,9 +6,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?center=false&font=comfortaa&color=016EEA&size=24&width=500&lines=I'm+BioCoderR;Bioinformatician;Research+Scientist;Freelancer;Web+Developer)](https://git.io/typing-svg)   
 
-
-      
-
 - 🔭 I’m currently working on NGS Technologies, Docker
 - 🌱 I’m currently learning React, Vue.js, & NEXT.js
 - 👯 I’m looking to collaborate on Website designing
@@ -37,9 +34,10 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=py,r,bash,stackoverflow,linux,md,regex,vscode,git,github,java,mysql,figma,html,css,js,nodejs,react,tailwind,heroku&perline=5" />
+   <img src="https://skillicons.dev/icons?i=py,r,bash,stackoverflow,linux,md,regex,vscode,git,github,java,mysql,figma,html,css,js,nodejs,react,tailwind,heroku" />
   </a>
 </p>
+
 <!--
 ### 👨‍💻 Programming languages
 
@@ -121,7 +119,8 @@
 
 ### Digital Badges:
 <p>
-<img align="left" alt="Python for Data Science and AI" src="https://github.com/BioCoderR/BioCoderR/blob/master/python-for-data-science-and-ai.png" /></p>
+ <img align="left" alt="Python for Data Science and AI" src="https://github.com/BioCoderR/BioCoderR/blob/master/python-for-data-science-and-ai.png" /></p>
+ 
 <br/>
 <br/>
 <br/>
@@ -131,21 +130,31 @@
 <br/>
 
 <br/>
+
 <p align="left">
   <a href="https://github.com/BioCoderR?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white" /></a>
   </p>
   <br/>
 <details>
-  <summary>:zap: Github Stats</summary><br>
+  <summary>
+   :zap: Github Stats
+ </summary>
+ <br>
+ <p align="left"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=biocoderr"         alt="biocoderr" />
+  </a> 
+ </p>
+ <img align="left" alt="pranavswaroopgundla's Github Stats" src="https://raw.githubusercontent.com/BioCoderR/github-stats-  transparent/output/generated/overview.svg" />
+ <img align="left" alt="pranavswaroopgundla's Github Stats" src="https://raw.githubusercontent.com/BioCoderR/github-stats-transparent/output/generated/languages.svg" />
+ <p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=biocoderr&theme=highcontrast" alt="biocoderr" />
+ </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=biocoderr" alt="biocoderr" /></a> </p>
-  <img align="left" alt="pranavswaroopgundla's Github Stats" src="https://raw.githubusercontent.com/BioCoderR/github-stats-transparent/output/generated/overview.svg" />
-<img align="left" alt="pranavswaroopgundla's Github Stats" src="https://raw.githubusercontent.com/BioCoderR/github-stats-transparent/output/generated/languages.svg" />
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=biocoderr&theme=highcontrast" alt="biocoderr" /></p>
 </details>
 
 ### Github Activity Stats
 
 <img alt="BioCoderR's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=biocoderr&bg_color=0b0a0a&color=1dc6c9&line=1fd1b3&point=ededed&area=true&hide_border=true" />
+
 <!-- [BioCoderR's Activity Graph](https://activity-graph.herokuapp.com/graph?username=biocoderr&bg_color=0b0a0a&color=1dc6c9&line=1fd1b3&point=ededed&area=true&hide_border=true)(https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
