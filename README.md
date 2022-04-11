@@ -1,7 +1,12 @@
+ <p align="center">
+ <img src="https://github.com/BioCoderR/BioCoderR.github.io/blob/master/assets/images/PranavSwaroop-modified.png" width="150" height="150"/>
+ </p>
 
-<p align="left">
- <img src="https://readme-typing-svg.herokuapp.com?font=KoHo&color=149DDD&size=28&Center=true&vCenter=true&width=570&height=80&lines=I'm+Pranav+Swaroop+Gundla+aka+BioCoderR+%F0%9F%91%8B;Bioinformatician;+Data+Scientist;Freelancer+;Web+Developer" />     
-  </p>
+<h2 align="center"> Hi I'm Gundla Pranav Swaroop</h2>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?center=false&font=comfortaa&color=016EEA&size=24&width=500&lines=I'm+BioCoderR;Bioinformatician;Research+Scientist;Freelancer;Web+Developer)](https://git.io/typing-svg)   
+
+
       
 
 - 🔭 I’m currently working on NGS Technologies, Docker
@@ -28,21 +33,24 @@
    </a>
 </p> 
 
-# :milky_way: My Space
+## 🔧 Technologies
 
+<p align="center">
+  <a href="https://skillicons.dev">
+   <img src="https://skillicons.dev/icons?i=py,r,bash,stackoverflow,linux,md,regex,vscode,git,github,java,mysql,figma,html,css,js,nodejs,react,tailwind,heroku&perline=5" />
+  </a>
+</p>
+<!--
 ### 👨‍💻 Programming languages
 
 <p> 
    <img alt="Bash" src="https://img.shields.io/badge/Bash%20-%23121011.svg?logo=gnu-bash&logoColor=white" />
    <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white" />
-   <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white" />
    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white" />
    <img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white" />
-   <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white" />
    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black" />
    <img alt="Markdown" src="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white" />
    <img alt="Perl" src="https://img.shields.io/badge/Perl-39457E?style=flat&logo=perl&logoColor=white" />
-   <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white" />
    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white" />
    <img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white" />
    <img alt="SVG+XML" src="https://img.shields.io/badge/SVG%2BXML%20-%23e0982c.svg?logo=svg&logoColor=white" /> 
@@ -54,7 +62,6 @@
 <p>
    <img alt="Arduino" src="https://img.shields.io/badge/Arduino-00979D?logo=Arduino&logoColor=white" />
    <img alt="Conda" src="https://img.shields.io/badge/Conda-342B029.svg?&style=flat&logo=anaconda&logoColor=white" />
-   <img alt="Keras" src="https://img.shields.io/badge/Keras%20-%23D00000.svg?logo=Keras&logoColor=white" />
    <img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white" />
    <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-27338e?style=flat&logo=OpenCV&logoColor=white" />
    <img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white" />
@@ -88,8 +95,7 @@
    <img alt="Docker" src="https://img.shields.io/badge/Docker-46a2f1?style=flat&amp;logo=docker&amp;logoColor=white" />
    <img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white" />
    <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?logo=Jupyter&logoColor=white" />
-   <img alt="MATLAB" src="https://img.shields.io/badge/Mathworks-0076A8?style=flat&logo=mathworks&logoColor=white" />
-   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat&amp;logo=prettier&amp;logoColor=white" /> 
+   <img alt="MATLAB" src="https://img.shields.io/badge/Mathworks-0076A8?style=flat&logo=mathworks&logoColor=white" /> 
    <img alt="RStudio" src="https://img.shields.io/badge/RStudio-75AADB?style=flat&logo=RStudio&logoColor=white&logoWidth=20" />
    <img alt="Stack Overflow" src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white" />
 </p>
@@ -111,6 +117,7 @@
    <img alt="Macos" src="https://img.shields.io/badge/macOS-000000?style=flat&logo=macos&logoColor=white" />
    <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white" />
 </p>
+-->
 
 ### Digital Badges:
 <p>
