@@ -58,22 +58,10 @@
   <a href="https://github.com/BioCoderR?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white" /></a>
   </p>
   <br/>
-<details>
-  <summary>
-   :zap: Github Stats
- </summary>
- <br>
- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=biocoderr" alt="biocoderr" /></a></p>
- <img align="left" alt="pranavswaroopgundla's Github Stats" src="https://raw.githubusercontent.com/BioCoderR/github-stats-transparent/output/generated/overview.svg" />
- <img align="left" alt="pranavswaroopgundla's Github Stats" src="https://raw.githubusercontent.com/BioCoderR/github-stats-transparent/output/generated/languages.svg" />
- <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=biocoderr&theme=highcontrast" alt="biocoderr" />
- </p>
 
-</details>
 
 ### Github Activity Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biocoderr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biocoderr&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- markdownlint-enable MD033 -->
 ![Metrics](/github-metrics.svg)
