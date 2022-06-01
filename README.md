@@ -34,7 +34,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=py,r,bash,stackoverflow,linux,md,regex,vscode,git,github,gcp,docker,arduino,java,mysql,figma,html,css,sass,js,nodejs,react,tailwind,heroku" />
+   <img src="https://skillicons.dev/icons?i=py,r,bash,stackoverflow,linux,md,regex,vscode,git,github,gcp,docker,arduino,java,mysql,figma,html,css,sass,js,nodejs,react,tailwind,heroku&theme=light" />
   </a>
 </p>
 
@@ -61,7 +61,7 @@
 
 
 ### Github Activity Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biocoderr&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biocoderr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- markdownlint-enable MD033 -->
 ![Metrics](/github-metrics.svg)
