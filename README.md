@@ -54,15 +54,10 @@
 
 <br/>
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/BioCoderR?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white" /></a>
   </p>
   <br/>
-
-
 <!-- markdownlint-enable MD033 
 ![Metrics](/github-metrics.svg)-->
-
-
 <!-- [BioCoderR's Activity Graph](https://activity-graph.herokuapp.com/graph?username=biocoderr&bg_color=0b0a0a&color=1dc6c9&line=1fd1b3&point=ededed&area=true&hide_border=true)(https://github.com/ashutosh00710/github-readme-activity-graph) -->
-
