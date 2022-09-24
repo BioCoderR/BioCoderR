@@ -60,11 +60,8 @@
   <br/>
 
 
-### Github Activity Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biocoderr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-<!-- markdownlint-enable MD033 -->
-![Metrics](/github-metrics.svg)
+<!-- markdownlint-enable MD033 
+![Metrics](/github-metrics.svg)-->
 
 
 <!-- [BioCoderR's Activity Graph](https://activity-graph.herokuapp.com/graph?username=biocoderr&bg_color=0b0a0a&color=1dc6c9&line=1fd1b3&point=ededed&area=true&hide_border=true)(https://github.com/ashutosh00710/github-readme-activity-graph) -->
