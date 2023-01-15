@@ -1,5 +1,5 @@
  <p align="center">
- <img src="https://github.com/BioCoderR/BioCoderR.github.io/blob/master/assets/images/PranavSwaroop-modified.png" width="150" height="150"/>
+ <img src="https://github.com/BioCoderR/BioCoderR.github.io/blob/master/assets/images/Pic4.png" width="150" height="150"/>
  </p>
 
 <h2 align="center"> Hi I'm Gundla Pranav Swaroop</h2>
