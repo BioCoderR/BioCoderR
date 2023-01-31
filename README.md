@@ -1,7 +1,3 @@
- <p align="center">
- <img src="https://github.com/BioCoderR/BioCoderR.github.io/blob/master/assets/images/Pic4.png" width="150" height="150"/>
- </p>
-
 <h2 align="center"> Hi I'm Gundla Pranav Swaroop</h2>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?center=false&font=comfortaa&color=016EEA&size=24&width=500&lines=I'm+BioCoderR;Bioinformatician;Research+Scientist;Freelancer;Web+Developer)](https://git.io/typing-svg)   
