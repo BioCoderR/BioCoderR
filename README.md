@@ -1,12 +1,14 @@
 <h2 align="center"> Hi I'm Gundla Pranav Swaroop</h2>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?center=false&font=comfortaa&color=016EEA&size=24&width=500&lines=I'm+BioCoderR;Bioinformatician;Research+Scientist;Freelancer;Web+Developer)](https://git.io/typing-svg)   
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?center=false&font=comfortaa&color=016EEA&size=24&width=500&lines=I'm+BioCoderR;Bioinformatician;Researcher;Freelancer;Web+Developer)](https://git.io/typing-svg)   
 
-- 🔭 I’m currently working on NGS Technologies, Docker
-- 🌱 I’m currently learning React, Vue.js, & NEXT.js
-- 👯 I’m looking to collaborate on Website designing
-- 🤔 I’m looking for help in Javascript
-- 💬 Find my sourcerer at: [Sourcerer](https://sourcerer.io/biocoderr):mage:
+- 🔭 I’m currently working on R shiny, JS and Genomics
+- 🌱 I’m currently learning <br/>
+         1. Annotation from De-novo assembly  <br/>
+         2. Implementation IGV on App Engine <br/>
+         3. Working with Assembly mapping<br/>
+- 👯 I’m looking to collaborate on Genomics & Deep Learning.
+- 🤔 I’m looking for help in Deep Learning Techniques used in Computational biology projects.
 - :man_technologist: Check my [Portfolio](https://biocoderr.github.io/)✨
 - 📫 How to reach me: <a href="mailto:pranav5goud@gmail.com"><img alt="GMail" align="center" width="20" height="18" src="assets/gmail.svg" /></a>
 - ⚡ Fun fact: I listen to music for more than 9 hours a day.
