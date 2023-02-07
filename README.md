@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on R shiny, JS and Genomics
 - 🌱 I’m currently learning <br/>
-         1. Annotation from De-novo assembly  <br/>
+         1. Annotation from *de novo* assembly  <br/>
          2. Implementation IGV on App Engine <br/>
          3. Working with Assembly mapping<br/>
 - 👯 I’m looking to collaborate on Genomics & Deep Learning.
