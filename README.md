@@ -2,13 +2,13 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?center=false&font=comfortaa&color=016EEA&size=24&width=500&lines=I'm+BioCoderR;Bioinformatician;Researcher;Freelancer;Web+Developer)](https://git.io/typing-svg)   
 
-- 🔭 I’m currently working on R shiny, JS and Genomics
+- 🔭 I’m currently working on R shiny, JS and Multi-OMICS
 - 🌱 I’m currently learning <br/>
          1. Annotation from *de novo* assembly  <br/>
          2. Implementation IGV on App Engine <br/>
-         3. Working with Assembly mapping<br/>
-- 👯 I’m looking to collaborate on Genomics & Deep Learning.
-- 🤔 I’m looking for help in Deep Learning Techniques used in Computational biology projects.
+         3. Working with single-cell omics<br/>
+- 👯 I’m looking to collaborate on OMICS & Deep Learning.
+- 🤔 I’m looking for help in Deep Learning Techniques used in Computational oncology projects.
 - :man_technologist: Check my [Portfolio](https://biocoderr.github.io/)✨
 - 📫 How to reach me: <a href="mailto:pranav5goud@gmail.com"><img alt="GMail" align="center" width="20" height="18" src="assets/gmail.svg" /></a>
 - ⚡ Fun fact: I listen to music for more than 9 hours a day.
