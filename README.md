@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?center=false&font=comfortaa&color=016EEA&size=24&width=500&lines=I'm+BioCoderR;Bioinformatician;Researcher;Web+Developer)](https://git.io/typing-svg)   
 
-- 🔭 I’m currently working on R shiny, JS and Multi-OMICS
+- 🔭 I’m currently working on Python, R, JS, TS and Multi-OMICS
 - 🌱 I’m currently learning <br/>
          1. How to implement the HistoPath analysis for Brain tumors specifically on Gliomas  <br/>
          2. Implementation of deep-learning algorthms to predict mutations. <br/>
