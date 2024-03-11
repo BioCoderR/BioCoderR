@@ -4,9 +4,9 @@
 
 - 🔭 I’m currently working on Python, R, JS, TS and Multi-OMICS
 - 🌱 I’m currently learning <br/>
-         1. How to implement the HistoPath analysis for Brain tumors specifically on Gliomas  <br/>
-         2. Implementation of deep-learning algorthms to predict mutations. <br/>
-         3. Working with spatial OMICS<br/>
+         1. How to implement the Deep learning algorithms on Whole Slide Images (WSIs) for cancer subtypes.  <br/>
+         2. Implementation of algorithms to learn the features from the WSIs <br/>
+         3. Working with multi-OMICS data<br/>
 - 👯 I’m looking to collaborate on OMICS & Deep Learning.
 - 🤔 I’m looking for help in Deep Learning Techniques used in Computational oncology projects.
 - :man_technologist: Check my [Portfolio](https://biocoderr.github.io/)✨
