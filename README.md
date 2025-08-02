@@ -1,61 +1,132 @@
-<h2 align="center"> Hi I'm Gundla Pranav Swaroop</h2>
+<h2 align="center">Hi, I'm Gundla Pranav Swaroop</h2>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?center=false&font=comfortaa&color=016EEA&size=24&width=500&lines=I'm+BioCoderR;Bioinformatician;Researcher;Web+Developer)](https://git.io/typing-svg)   
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?center=true&font=comfortaa&color=016EEA&size=24&lines=I'm+BioCoderR;Bioinformatician;Researcher;Web+Developer" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on Python, R, JS, TS and Multi-OMICS
-- 🌱 I’m currently learning <br/>
-         1. How to implement the Deep learning algorithms on Whole Slide Images (WSIs) for cancer subtypes.  <br/>
-         2. Implementation of algorithms to learn the features from the WSIs <br/>
-         3. Working with multi-OMICS data<br/>
-- 👯 I’m looking to collaborate on OMICS & Deep Learning.
-- 🤔 I’m looking for help in Deep Learning Techniques used in Computational oncology projects.
-- :man_technologist: Check my [Portfolio](https://biocoderr.github.io/)✨
-- 📫 How to reach me: <a href="mailto:pranav5goud@gmail.com"><img alt="GMail" align="center" width="20" height="18" src="assets/gmail.svg" /></a>
-- ⚡ Fun fact: I listen to music for more than 9 hours a day.
+---
 
+## 🔭 Current Research
 
-# :raising_hand_man: Connect with me:
+I’m currently a PhD student in the **Kocakavuk Lab** working on **Computational Oncology** with a focus on:
+
+- Building genotype-to-phenotype relationships in **Adult Diffuse Gliomas**
+- Using **Whole Slide Images (WSIs)** and **multi-omics data** for tumor subtyping
+- Developing deep learning pipelines for spatial and molecular profiling
+
+---
+
+## 🧠 Learning Focus
+
+- Implementing deep learning models on WSIs for cancer subtype prediction  
+- Learning feature extraction methods from histopathological images  
+- Integrating transcriptomics, genomics, and imaging data  
+- Improving documentation, reproducibility, and scientific communication  
+- Developing reproducible pipelines using containers and HPC infrastructure  
+
+---
+
+## 🤝 Collaborations & Help
+
+- 👯 I’m looking to collaborate in **glioma research using deep learning**
+- 🤔 I’m seeking input on **advanced DL techniques** in computational pathology
+
+---
+
+## 🌐 Portfolio & Contact
+
+- ✨ Portfolio: [BioCodeR.io](https://biocoderr.github.io/)
+- 📫 Reach me:  <a href="mailto:pranavswaroop.gundla@uk-essen.de"><img alt="Outlook-Mail" align="center" width="60" height="30" src="assets/outlook.jpg" /></a>
+
+---
+
+## :raising_hand_man: Connect with Me
 
 <p align="center">
    <a href="https://www.instagram.com/pranav_swaroop_g/">
-      <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&amp;style=for-the-badge&amp;logo=instagram&amp;logoColor=white" />
+      <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
    </a>
-    <a href="https://linkedin.com/in/pranavswaroopgundla/">
-       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+   <a href="https://linkedin.com/in/pranavswaroopgundla/">
+      <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
    </a>
    <a href="https://twitter.com/im_pranavgundla">
       <img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
    </a>
-</p> 
+</p>
 
-## 🔧 Technologies
+---
+
+## 🔧 Technologies & Tools
 
 <p align="center">
   <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=py,pytorch,r,julia,bash,matlab,stackoverflow,linux,md,devto,regex,vscode,git,github,aws,azure,gcp,docker,mysql,figma,react,nextjs,tailwind,ts&theme=light" />
+    <img src="https://skillicons.dev/icons?i=py,pytorch,opencv,sklearn,r,julia,bash,matlab,vscode,notion,stackoverflow,linux,debian,md,devto,regex,git,github,aws,azure,gcp,docker,mysql,figma,js,npm,nodejs,react,nextjs,tailwind,ts,vercel&theme=light" />
   </a>
 </p>
 
+---
+
+## 📂 Notable Projects
+
+- **[CLAM](https://github.com/mahmoodlab/CLAM)**  - Heatmaps for attention visualization with clionical-task specific predictions
+
+- **[TRIDENT](https://github.com/mahmoodlab/TRIDENT)**  - A comprehensive toolbox for the whole slide images projects with deep learning
+
+- **[CellViT++: Vision Transformers for Spatial Omics](https://github.com/BioCoderR/CellViT-Plus)** - Adaptive nuclei segmentation for WSIs 
+
+---
+
+## 📝 Selected Publications / Preprints
+
+- [Tumor-initiating genetics and therapy drive divergent molecular evolution in IDH-mutant gliomas ](https://www.biorxiv.org/content/10.1101/2025.07.11.664189v1) - *medRxiv, 2025*
 
 
-### Digital Badges:
-<p>
- <img align="left" alt="Python for Data Science and AI" src="https://github.com/BioCoderR/BioCoderR/blob/master/python-for-data-science-and-ai.png" /></p>
- 
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
+---
 
-<br/>
+## 📚 Currently Reading
+
+- [CellViT++: Vision Transformers for Spatial Omics](https://github.com/BioCoderR/CellViT-Plus)
+
+---
+
+## 🎧 Music & Life
+
+- Listen to music for **~9 hours/day** (lofi + classical while debugging!)  
+- Travel enthusiast — recently in 🇳🇱, 🇫🇷, 🇸🇪, 🇭🇺, and 🇩🇪  
+- Enjoy organizing research socials & mentoring junior scientists  
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/BioCoderR?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white" /></a>
-  </p>
+  <img src="https://github-readme-stats.vercel.app/api?username=BioCoderR&show_icons=true&theme=default&hide_border=true" />
   <br/>
-<!-- markdownlint-enable MD033 
-![Metrics](/github-metrics.svg)-->
-<!-- [BioCoderR's Activity Graph](https://activity-graph.herokuapp.com/graph?username=biocoderr&bg_color=0b0a0a&color=1dc6c9&line=1fd1b3&point=ededed&area=true&hide_border=true)(https://github.com/ashutosh00710/github-readme-activity-graph) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BioCoderR&theme=default&hide_border=true" />
+</p>
+
+---
+
+## 🎖 Digital Badges
+
+<p>
+ <img align="left" alt="Python for Data Science and AI" src="https://github.com/BioCoderR/BioCoderR/blob/master/python-for-data-science-and-ai.png" />
+</p>
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+---
+
+<p align="center">
+  <a href="https://github.com/BioCoderR?tab=repositories">
+    <img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white" />
+  </a>
+</p>
+
