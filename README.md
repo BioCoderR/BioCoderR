@@ -95,7 +95,7 @@ I’m currently a PhD student in the **Kocakavuk Lab** working on **Computationa
 
 - Listen to music for **~9 hours/day** (lofi + classical while debugging!)  
 - Travel enthusiast — recently in 🇳🇱, 🇫🇷, and 🇩🇪  
-- Enjoy organizing research socials & mentoring junior scientists  
+- Enjoy organizing research socials & mentoring junior researchers  
 
 ---
 
